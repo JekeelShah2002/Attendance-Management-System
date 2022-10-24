@@ -1,0 +1,12 @@
+opencv-python
+numpy
+flask-bcrypt
+wtform
+flask
+flask-login
+flask-wtf
+flask-sqlalchemy
+email-validator
+jinja2
+cffi
+face-recognition
