@@ -35,11 +35,12 @@ cd Attendanance Management System; pip install -r requirements.txt
 ```
 python run.py
 ```
+_Login Page_
+<img src="https://user-images.githubusercontent.com/91594505/214212608-6ceda265-30e8-4877-9f84-00d86061fa15.png">
 
+_Adding New Students_
 
-
-![img 3](https://github.com/Dk-09/Dk-09/blob/main/6.png)
+<img src="https://user-images.githubusercontent.com/91594505/214212739-16d81b8d-e1dd-4dc3-9fc9-4d4d4d345790.png">
 
 _Face recognition_
-
-![img 4](https://github.com/Dk-09/Dk-09/blob/main/9.png)
+<img src="![image](https://user-images.githubusercontent.com/91594505/214212987-3b43c392-b737-40d2-9737-51b08533dbc2.png)">
