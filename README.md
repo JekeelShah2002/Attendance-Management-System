@@ -1,7 +1,6 @@
 # Attendance Management System
 
-A tool that helps you keep the :closed_book: (record) of students that are present in the class without any effort. Of course it uses the latest facial recognition technique.
-
+A tool that helps you keep the :closed_book: (record) of students that are present in the class without any effort using Facial Recognition Technology.
 > NOTE : still under development.
 
 ## languages and technology that are used in Attendant
@@ -36,6 +35,7 @@ cd Attendanance Management System; pip install -r requirements.txt
 python run.py
 ```
 _Login Page_
+
 <img src="https://user-images.githubusercontent.com/91594505/214212608-6ceda265-30e8-4877-9f84-00d86061fa15.png">
 
 _Adding New Students_
@@ -43,4 +43,13 @@ _Adding New Students_
 <img src="https://user-images.githubusercontent.com/91594505/214212739-16d81b8d-e1dd-4dc3-9fc9-4d4d4d345790.png">
 
 _Face recognition_
-<img src="![image](https://user-images.githubusercontent.com/91594505/214212987-3b43c392-b737-40d2-9737-51b08533dbc2.png)">
+
+<img src="https://user-images.githubusercontent.com/91594505/214212987-3b43c392-b737-40d2-9737-51b08533dbc2.png">
+
+_Datewise records_
+
+<img src="https://user-images.githubusercontent.com/91594505/214213125-ba024e6b-bf5c-4d74-80ad-113dadd4cc4e.png">
+<img src="https://user-images.githubusercontent.com/91594505/214213404-2aa61dfb-fd38-4861-9c23-db715507bb67.png">
+
+
+
